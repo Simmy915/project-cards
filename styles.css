@@ -6,7 +6,7 @@
 
 body {
   background: url(https://mdbootstrap.com/img/Photos/new-templates/glassmorphism-article/img7.jpg);
-  height: 700px;
+  /* height: 700px; */
   background-size: cover;
   background-position: center;
   background-attachment: fixed;
@@ -46,8 +46,9 @@ body {
   backdrop-filter: blur(3px);
   -webkit-backdrop-filter: blur(3px);
   border-radius: 10px;
-  overflow: hidden;
+  /* overflow: hidden; */
   padding: 1%;
+  height: 100%;
 }
 
 .card-img {
